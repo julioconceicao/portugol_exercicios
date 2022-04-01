@@ -1,0 +1,9 @@
+
+Estão presentes no arquivo:
+-Exercícios das Palavras de Repetição (lista 2)
+-Exercícios de lógica (lista 1)
+
+Está faltando:
+-Exercícios de matrizes (lista 2, pt2)
+
+Eu fechei o navegador ontem a noite e esqueci que salvar os exercícios feitos de Algorítmos e Matrizes.
