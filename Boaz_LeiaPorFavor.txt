@@ -7,3 +7,5 @@ Está faltando:
 -Exercícios de matrizes (lista 2, pt2)
 
 Eu fechei o navegador ontem a noite e esqueci que salvar os exercícios feitos de Algorítmos e Matrizes.
+Também tentei fazer uma branch em outro repositório pra organizar as tarefas separadamente, 
+mas não deu certo então coloquei tudo em uma unica branch.
